@@ -23,6 +23,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: python scripts/radar.py
+      - name: Prepare social research inbox (not publishing)
+        run: python scripts/social_queue.py
       - name: Notify owner only about new high-signal repos
         env:
           GH_TOKEN: ${{ github.token }}
@@ -41,7 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports/latest.md reports/latest.json data/state.json
+          git add reports/latest.md reports/latest.json reports/social_queue.md data/state.json
           if ! git diff --cached --quiet; then
             git commit -m "radar: daily metadata snapshot"
             git push origin HEAD:main
