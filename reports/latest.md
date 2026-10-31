@@ -18,7 +18,7 @@ Quét tự động bằng GitHub Actions. Đây là danh sách repo mới nổi 
 
 **PDT có thể dùng:** Đánh giá hỗ trợ agent, coding và điều phối SOL.
 
-**Bằng chứng:** 2255 stars; chưa có baseline tăng trưởng; tạo 2026-10-29; ngôn ngữ Kotlin; license Apache-2.0; score 66/100.
+**Bằng chứng:** 2261 stars; chưa có baseline tăng trưởng; tạo 2026-10-29; ngôn ngữ Kotlin; license Apache-2.0; score 66/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
@@ -28,7 +28,7 @@ Quét tự động bằng GitHub Actions. Đây là danh sách repo mới nổi 
 
 **PDT có thể dùng:** Kiểm tra giá trị tăng tốc lập trình.
 
-**Bằng chứng:** 1789 stars; chưa có baseline tăng trưởng; tạo 2026-10-21; ngôn ngữ TypeScript; license Apache-2.0; score 65/100.
+**Bằng chứng:** 1791 stars; chưa có baseline tăng trưởng; tạo 2026-10-21; ngôn ngữ TypeScript; license Apache-2.0; score 65/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
