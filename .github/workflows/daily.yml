@@ -1,0 +1,44 @@
+name: PDT GitHub Hot Radar (daily)
+on:
+  schedule:
+    - cron: "23 1 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: pdt-github-hot-radar
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Test scoring and safety gates
+        run: python -m unittest discover -s tests -v
+      - name: Read GitHub public metadata and rank useful repos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/radar.py
+      - name: Save the daily report and deduplication state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/latest.md reports/latest.json data/state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: daily metadata snapshot"
+            git push origin HEAD:main
+          fi
+      - name: Notify owner only about new high-signal repos
+        env:
+          GH_TOKEN: __TOKEN__
+        run: |
+          if [ -s reports/pending_issue.md ]; then
+            title=$(head -n 1 reports/pending_issue.md)
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body-file reports/pending_issue.md --assignee "$GITHUB_REPOSITORY_OWNER"
+          else
+            echo "NO_UPDATE"
+          fi
