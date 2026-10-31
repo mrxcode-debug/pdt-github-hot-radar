@@ -23,6 +23,20 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: python scripts/radar.py
+      - name: Notify owner only about new high-signal repos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -s reports/pending_issue.md ]; then
+            title=$(head -n 1 reports/pending_issue.md)
+            if gh issue list --repo "$GITHUB_REPOSITORY" --state all --json title --limit 100 --jq '.[].title' | grep -Fx -- "$title"; then
+              echo "Issue already exists; skipping duplicate."
+            else
+              gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body-file reports/pending_issue.md --assignee "$GITHUB_REPOSITORY_OWNER"
+            fi
+          else
+            echo "NO_UPDATE"
+          fi
       - name: Save the daily report and deduplication state
         run: |
           git config user.name "github-actions[bot]"
@@ -31,14 +45,4 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "radar: daily metadata snapshot"
             git push origin HEAD:main
-          fi
-      - name: Notify owner only about new high-signal repos
-        env:
-          GH_TOKEN: __TOKEN__
-        run: |
-          if [ -s reports/pending_issue.md ]; then
-            title=$(head -n 1 reports/pending_issue.md)
-            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body-file reports/pending_issue.md --assignee "$GITHUB_REPOSITORY_OWNER"
-          else
-            echo "NO_UPDATE"
           fi
