@@ -1,36 +1,36 @@
-# PDT GitHub Hot Radar — 2026-10-31
+# PDT GitHub Hot Radar — 2026-11-01
 
 Quét tự động bằng GitHub Actions. Đây là danh sách repo mới nổi qua GitHub Search, KHÔNG phải bảng GitHub Trending chính thức; stars tổng không đồng nghĩa stars tăng hôm nay.
 
-## 1. [heydamir/unslop](https://github.com/heydamir/unslop) — General
+## 1. [daveebbelaar/bama](https://github.com/daveebbelaar/bama) — AI agents
 
-**Tác dụng (mô tả tác giả):** A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+**Tác dụng (mô tả tác giả):** BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.
 
-**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
+**PDT có thể dùng:** Đánh giá hỗ trợ agent, coding và điều phối SOL.
 
-**Bằng chứng:** 2736 stars; +122 stars từ snapshot trước; tạo 2026-10-29; ngôn ngữ JavaScript; license CC-BY-4.0; score 70/100.
-
-**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
-
-## 2. [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — Media
-
-**Tác dụng (mô tả tác giả):** 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
-
-**PDT có thể dùng:** Thử hỗ trợ quy trình sáng tạo nội dung.
-
-**Bằng chứng:** 1586 stars; +26 stars từ snapshot trước; tạo 2026-10-29; ngôn ngữ Go; license MIT; score 69/100.
+**Bằng chứng:** 1133 stars; +110 stars từ snapshot trước; tạo 2026-10-24; ngôn ngữ Swift; license MIT; score 75/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
-## 3. [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) — General
+## 2. [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) — Developer tools
 
-**Tác dụng (mô tả tác giả):** Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
+**Tác dụng (mô tả tác giả):** See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
 
-**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
+**PDT có thể dùng:** Kiểm tra giá trị tăng tốc lập trình.
 
-**Bằng chứng:** 2247 stars; +61 stars từ snapshot trước; tạo 2026-10-29; ngôn ngữ C; license MIT; score 64/100.
+**Bằng chứng:** 1015 stars; +471 stars từ snapshot trước; tạo 2026-10-27; ngôn ngữ JavaScript; license MIT; score 75/100.
+
+**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
+
+## 3. [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) — AI agents
+
+**Tác dụng (mô tả tác giả):** 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+
+**PDT có thể dùng:** Đánh giá hỗ trợ agent, coding và điều phối SOL.
+
+**Bằng chứng:** 5456 stars; +149 stars từ snapshot trước; tạo 2026-10-24; ngôn ngữ Python; license MIT; score 69/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
 ---
-Đã xem 133 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.
+Đã xem 135 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.
