@@ -1,36 +1,36 @@
-# PDT GitHub Hot Radar — 2026-11-03
+# PDT GitHub Hot Radar — 2026-11-04
 
 Quét tự động bằng GitHub Actions. Đây là danh sách repo mới nổi qua GitHub Search, KHÔNG phải bảng GitHub Trending chính thức; stars tổng không đồng nghĩa stars tăng hôm nay.
 
-## 1. [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) — AI agents
+## 1. [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) — AI agents
 
-**Tác dụng (mô tả tác giả):** Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Creat
+**Tác dụng (mô tả tác giả):** 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the ap
 
 **PDT có thể dùng:** Đánh giá hỗ trợ agent, coding và điều phối SOL.
 
-**Bằng chứng:** 640 stars; +95 stars từ snapshot trước; tạo 2026-10-30; ngôn ngữ Python; license MIT; score 76/100.
+**Bằng chứng:** 2374 stars; +507 stars từ snapshot trước; tạo 2026-10-27; ngôn ngữ Python; license MIT; score 80/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
-## 2. [storytold/craft-anything](https://github.com/storytold/craft-anything) — General
+## 2. [Verlintas/NOIR](https://github.com/Verlintas/NOIR) — Developer tools
 
-**Tác dụng (mô tả tác giả):** Craft Anything: understand how any software works, and craft your own.
+**Tác dụng (mô tả tác giả):** 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.
 
-**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
+**PDT có thể dùng:** Kiểm tra giá trị tăng tốc lập trình.
 
-**Bằng chứng:** 5406 stars; +3590 stars từ snapshot trước; tạo 2026-10-31; ngôn ngữ Rust; license Apache-2.0; score 70/100.
+**Bằng chứng:** 1837 stars; +293 stars từ snapshot trước; tạo 2026-10-31; ngôn ngữ Kotlin; license MIT; score 75/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
-## 3. [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) — General
+## 3. [yjid/kensaku](https://github.com/yjid/kensaku) — AI agents
 
-**Tác dụng (mô tả tác giả):** VERY experimental Nintendo Switch 2 emulator
+**Tác dụng (mô tả tác giả):** Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.
 
-**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
+**PDT có thể dùng:** Đánh giá hỗ trợ agent, coding và điều phối SOL.
 
-**Bằng chứng:** 2666 stars; +539 stars từ snapshot trước; tạo 2026-10-29; ngôn ngữ C++; license GPL-3.0; score 70/100.
+**Bằng chứng:** 744 stars; +146 stars từ snapshot trước; tạo 2026-10-24; ngôn ngữ Rust; license MIT; score 74/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
 ---
-Đã xem 136 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.
+Đã xem 131 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.

@@ -1,18 +1,18 @@
 # PDT AI Radar / social candidate inbox
 
-Generated from public GitHub metadata at 2026-11-03T07:59:43.439241+00:00
+Generated from public GitHub metadata at 2026-11-04T07:35:49.422733+00:00
 
 **DRAFT LEADS ONLY. NOT fact-checked posts. NOT published.**
 Source counts/author summaries are not tests, warranties, or proof of commercial use.
 A human researcher must review README, security, licence details and primary sources;
 then write original Vietnamese page copy and a different group discussion version.
 
-## 1. N1nEmAn/sapper-v2
+## 1. modelflare-ai/AnyModelBot
 
-- Original URL: https://github.com/N1nEmAn/sapper-v2
+- Original URL: https://github.com/modelflare-ai/AnyModelBot
 - Declared topic: AI agents
-- Author description: Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Creat
-- Stars (total, not daily growth): 640
+- Author description: 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the ap
+- Stars (total, not daily growth): 2374
 - Licence metadata: MIT
 - Suggested hook idea: AI agent moi nay lam duoc gi, va co an toan khong?
 - PDT test idea: Đánh giá hỗ trợ agent, coding và điều phối SOL.
@@ -20,15 +20,28 @@ then write original Vietnamese page copy and a different group discussion versio
   edit hook, add tangible use and limitations, check Page/Group rules, owner approval.
 - State: RESEARCH_ONLY — DO NOT AUTO-POST
 
-## 2. storytold/craft-anything
+## 2. Verlintas/NOIR
 
-- Original URL: https://github.com/storytold/craft-anything
-- Declared topic: General
-- Author description: Craft Anything: understand how any software works, and craft your own.
-- Stars (total, not daily growth): 5406
-- Licence metadata: Apache-2.0
-- Suggested hook idea: Tool nay co gi dang thu?
-- PDT test idea: Cần đọc README để xác nhận giá trị cho PDT.
+- Original URL: https://github.com/Verlintas/NOIR
+- Declared topic: Developer tools
+- Author description: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.
+- Stars (total, not daily growth): 1837
+- Licence metadata: MIT
+- Suggested hook idea: Tool coding nay co giam thoi gian lam that?
+- PDT test idea: Kiểm tra giá trị tăng tốc lập trình.
+- BEFORE PUBLISH: re-open source, test claims, screen rights/risks,
+  edit hook, add tangible use and limitations, check Page/Group rules, owner approval.
+- State: RESEARCH_ONLY — DO NOT AUTO-POST
+
+## 3. yjid/kensaku
+
+- Original URL: https://github.com/yjid/kensaku
+- Declared topic: AI agents
+- Author description: Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.
+- Stars (total, not daily growth): 744
+- Licence metadata: MIT
+- Suggested hook idea: AI agent moi nay lam duoc gi, va co an toan khong?
+- PDT test idea: Đánh giá hỗ trợ agent, coding và điều phối SOL.
 - BEFORE PUBLISH: re-open source, test claims, screen rights/risks,
   edit hook, add tangible use and limitations, check Page/Group rules, owner approval.
 - State: RESEARCH_ONLY — DO NOT AUTO-POST
