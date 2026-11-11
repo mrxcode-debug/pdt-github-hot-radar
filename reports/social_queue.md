@@ -1,34 +1,47 @@
 # PDT AI Radar / social candidate inbox
 
-Generated from public GitHub metadata at 2026-11-10T08:29:03.148514+00:00
+Generated from public GitHub metadata at 2026-11-11T07:48:30.750221+00:00
 
 **DRAFT LEADS ONLY. NOT fact-checked posts. NOT published.**
 Source counts/author summaries are not tests, warranties, or proof of commercial use.
 A human researcher must review README, security, licence details and primary sources;
 then write original Vietnamese page copy and a different group discussion version.
 
-## 1. sarpstar/cinecode
+## 1. thiagoaureliomartins-programador/chief-architect-premier
 
-- Original URL: https://github.com/sarpstar/cinecode
-- Declared topic: Media
-- Author description: Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.
-- Stars (total, not daily growth): 1964
+- Original URL: https://github.com/thiagoaureliomartins-programador/chief-architect-premier
+- Declared topic: Developer tools
+- Author description: Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled
+- Stars (total, not daily growth): 775
 - Licence metadata: MIT
-- Suggested hook idea: AI video/hinh anh: tiet kiem thoi gian hay tang chi phi?
-- PDT test idea: Thử hỗ trợ quy trình sáng tạo nội dung.
+- Suggested hook idea: Tool coding nay co giam thoi gian lam that?
+- PDT test idea: Kiểm tra giá trị tăng tốc lập trình.
 - BEFORE PUBLISH: re-open source, test claims, screen rights/risks,
   edit hook, add tangible use and limitations, check Page/Group rules, owner approval.
 - State: RESEARCH_ONLY — DO NOT AUTO-POST
 
-## 2. synchopate/llama-modchip
+## 2. daiphu2708-crypto/melodyne-5-desktop-setup
 
-- Original URL: https://github.com/synchopate/llama-modchip
-- Declared topic: AI agents
-- Author description: 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
-- Stars (total, not daily growth): 815
-- Licence metadata: Apache-2.0
-- Suggested hook idea: AI agent moi nay lam duoc gi, va co an toan khong?
-- PDT test idea: Đánh giá hỗ trợ agent, coding và điều phối SOL.
+- Original URL: https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup
+- Declared topic: Developer tools
+- Author description: Melodyne-5: Professional Audio Editing Desktop Suite with Full Feature Set
+- Stars (total, not daily growth): 773
+- Licence metadata: MIT
+- Suggested hook idea: Tool coding nay co giam thoi gian lam that?
+- PDT test idea: Kiểm tra giá trị tăng tốc lập trình.
+- BEFORE PUBLISH: re-open source, test claims, screen rights/risks,
+  edit hook, add tangible use and limitations, check Page/Group rules, owner approval.
+- State: RESEARCH_ONLY — DO NOT AUTO-POST
+
+## 3. shayannazar84-hero/honkai-star-rail-companion-suite
+
+- Original URL: https://github.com/shayannazar84-hero/honkai-star-rail-companion-suite
+- Declared topic: Developer tools
+- Author description: Honkai Star Rail 2026 Trainer Tool: Complete Standalone Setup, Ready to Run
+- Stars (total, not daily growth): 773
+- Licence metadata: MIT
+- Suggested hook idea: Tool coding nay co giam thoi gian lam that?
+- PDT test idea: Kiểm tra giá trị tăng tốc lập trình.
 - BEFORE PUBLISH: re-open source, test claims, screen rights/risks,
   edit hook, add tangible use and limitations, check Page/Group rules, owner approval.
 - State: RESEARCH_ONLY — DO NOT AUTO-POST

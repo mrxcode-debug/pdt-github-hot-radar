@@ -1,36 +1,36 @@
-# PDT GitHub Hot Radar — 2026-11-10
+# PDT GitHub Hot Radar — 2026-11-11
 
 Quét tự động bằng GitHub Actions. Đây là danh sách repo mới nổi qua GitHub Search, KHÔNG phải bảng GitHub Trending chính thức; stars tổng không đồng nghĩa stars tăng hôm nay.
 
-## 1. [sarpstar/cinecode](https://github.com/sarpstar/cinecode) — Media
+## 1. [thiagoaureliomartins-programador/chief-architect-premier](https://github.com/thiagoaureliomartins-programador/chief-architect-premier) — Developer tools
 
-**Tác dụng (mô tả tác giả):** Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.
+**Tác dụng (mô tả tác giả):** Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled
 
-**PDT có thể dùng:** Thử hỗ trợ quy trình sáng tạo nội dung.
+**PDT có thể dùng:** Kiểm tra giá trị tăng tốc lập trình.
 
-**Bằng chứng:** 1964 stars; +265 stars từ snapshot trước; tạo 2026-11-03; ngôn ngữ Python; license MIT; score 80/100.
-
-**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
-
-## 2. [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) — AI agents
-
-**Tác dụng (mô tả tác giả):** 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
-
-**PDT có thể dùng:** Đánh giá hỗ trợ agent, coding và điều phối SOL.
-
-**Bằng chứng:** 815 stars; +235 stars từ snapshot trước; tạo 2026-10-29; ngôn ngữ Python; license Apache-2.0; score 74/100.
+**Bằng chứng:** 775 stars; +294 stars từ snapshot trước; tạo 2026-11-06; ngôn ngữ Rust; license MIT; score 80/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
-## 3. [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) — Media
+## 2. [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) — Developer tools
 
-**Tác dụng (mô tả tác giả):** misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
+**Tác dụng (mô tả tác giả):** Melodyne-5: Professional Audio Editing Desktop Suite with Full Feature Set
 
-**PDT có thể dùng:** Thử hỗ trợ quy trình sáng tạo nội dung.
+**PDT có thể dùng:** Kiểm tra giá trị tăng tốc lập trình.
 
-**Bằng chứng:** 4688 stars; +2244 stars từ snapshot trước; tạo 2026-10-29; ngôn ngữ Rust; license GPL-3.0; score 69/100.
+**Bằng chứng:** 773 stars; +293 stars từ snapshot trước; tạo 2026-11-06; ngôn ngữ HTML; license MIT; score 80/100.
+
+**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
+
+## 3. [shayannazar84-hero/honkai-star-rail-companion-suite](https://github.com/shayannazar84-hero/honkai-star-rail-companion-suite) — Developer tools
+
+**Tác dụng (mô tả tác giả):** Honkai Star Rail 2026 Trainer Tool: Complete Standalone Setup, Ready to Run
+
+**PDT có thể dùng:** Kiểm tra giá trị tăng tốc lập trình.
+
+**Bằng chứng:** 773 stars; +293 stars từ snapshot trước; tạo 2026-11-06; ngôn ngữ HTML; license MIT; score 80/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
 ---
-Đã xem 133 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.
+Đã xem 120 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.
