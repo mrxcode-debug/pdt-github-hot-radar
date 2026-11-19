@@ -1,36 +1,36 @@
-# PDT GitHub Hot Radar — 2026-11-18
+# PDT GitHub Hot Radar — 2026-11-19
 
 Quét tự động bằng GitHub Actions. Đây là danh sách repo mới nổi qua GitHub Search, KHÔNG phải bảng GitHub Trending chính thức; stars tổng không đồng nghĩa stars tăng hôm nay.
 
-## 1. [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) — Developer tools
+## 1. [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) — Content and marketing
 
-**Tác dụng (mô tả tác giả):** Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
+**Tác dụng (mô tả tác giả):** 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.
 
-**PDT có thể dùng:** Kiểm tra giá trị tăng tốc lập trình.
+**PDT có thể dùng:** Thử hỗ trợ SEO, content hoặc dịch vụ khách.
 
-**Bằng chứng:** 2054 stars; chưa có baseline tăng trưởng; tạo 2026-11-16; ngôn ngữ Rust; license MIT; score 71/100.
-
-**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
-
-## 2. [Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner) — General
-
-**Tác dụng (mô tả tác giả):** 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块
-
-**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
-
-**Bằng chứng:** 1576 stars; +181 stars từ snapshot trước; tạo 2026-11-11; ngôn ngữ Kotlin; license MIT; score 70/100.
+**Bằng chứng:** 682 stars; +91 stars từ snapshot trước; tạo 2026-11-16; ngôn ngữ Python; license MIT; score 83/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
-## 3. [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) — General
+## 2. [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) — Media
 
-**Tác dụng (mô tả tác giả):** 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送
+**Tác dụng (mô tả tác giả):** Offline knowledge AI, maps and videos for survival and rebuilding
 
-**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
+**PDT có thể dùng:** Thử hỗ trợ quy trình sáng tạo nội dung.
 
-**Bằng chứng:** 1511 stars; +220 stars từ snapshot trước; tạo 2026-11-12; ngôn ngữ TypeScript; license MIT; score 70/100.
+**Bằng chứng:** 2238 stars; +313 stars từ snapshot trước; tạo 2026-11-12; ngôn ngữ Python; license MIT; score 75/100.
+
+**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
+
+## 3. [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) — Automation
+
+**Tác dụng (mô tả tác giả):** 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
+
+**PDT có thể dùng:** Thử giảm thao tác thủ công trong PDT OPS/API.
+
+**Bằng chứng:** 1472 stars; +295 stars từ snapshot trước; tạo 2026-11-14; ngôn ngữ JavaScript; license MIT; score 75/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
 ---
-Đã xem 112 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.
+Đã xem 117 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.

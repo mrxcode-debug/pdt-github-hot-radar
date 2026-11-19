@@ -1,47 +1,47 @@
 # PDT AI Radar / social candidate inbox
 
-Generated from public GitHub metadata at 2026-11-18T08:38:33.086046+00:00
+Generated from public GitHub metadata at 2026-11-19T08:53:35.527453+00:00
 
 **DRAFT LEADS ONLY. NOT fact-checked posts. NOT published.**
 Source counts/author summaries are not tests, warranties, or proof of commercial use.
 A human researcher must review README, security, licence details and primary sources;
 then write original Vietnamese page copy and a different group discussion version.
 
-## 1. erkamyaman/rust-anything
+## 1. boringmarketer/boring-marketing-skills
 
-- Original URL: https://github.com/erkamyaman/rust-anything
-- Declared topic: Developer tools
-- Author description: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-- Stars (total, not daily growth): 2054
+- Original URL: https://github.com/boringmarketer/boring-marketing-skills
+- Declared topic: Content and marketing
+- Author description: 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.
+- Stars (total, not daily growth): 682
 - Licence metadata: MIT
-- Suggested hook idea: Tool coding nay co giam thoi gian lam that?
-- PDT test idea: Kiểm tra giá trị tăng tốc lập trình.
+- Suggested hook idea: Tool nay co gi dang thu?
+- PDT test idea: Thử hỗ trợ SEO, content hoặc dịch vụ khách.
 - BEFORE PUBLISH: re-open source, test claims, screen rights/risks,
   edit hook, add tangible use and limitations, check Page/Group rules, owner approval.
 - State: RESEARCH_ONLY — DO NOT AUTO-POST
 
-## 2. Eynnzerr/TelemetryCleaner
+## 2. Immortal-Protocols/lastbook
 
-- Original URL: https://github.com/Eynnzerr/TelemetryCleaner
-- Declared topic: General
-- Author description: 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块
-- Stars (total, not daily growth): 1576
+- Original URL: https://github.com/Immortal-Protocols/lastbook
+- Declared topic: Media
+- Author description: Offline knowledge AI, maps and videos for survival and rebuilding
+- Stars (total, not daily growth): 2238
 - Licence metadata: MIT
-- Suggested hook idea: Tool nay co gi dang thu?
-- PDT test idea: Cần đọc README để xác nhận giá trị cho PDT.
+- Suggested hook idea: AI video/hinh anh: tiet kiem thoi gian hay tang chi phi?
+- PDT test idea: Thử hỗ trợ quy trình sáng tạo nội dung.
 - BEFORE PUBLISH: re-open source, test claims, screen rights/risks,
   edit hook, add tangible use and limitations, check Page/Group rules, owner approval.
 - State: RESEARCH_ONLY — DO NOT AUTO-POST
 
-## 3. ZiChuanLan/freebie-radar
+## 3. CzzzzzzJ/mdldm-maitian
 
-- Original URL: https://github.com/ZiChuanLan/freebie-radar
-- Declared topic: General
-- Author description: 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送
-- Stars (total, not daily growth): 1511
+- Original URL: https://github.com/CzzzzzzJ/mdldm-maitian
+- Declared topic: Automation
+- Author description: 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
+- Stars (total, not daily growth): 1472
 - Licence metadata: MIT
-- Suggested hook idea: Tool nay co gi dang thu?
-- PDT test idea: Cần đọc README để xác nhận giá trị cho PDT.
+- Suggested hook idea: Workflow nay co thuc su bot thao tac thu cong?
+- PDT test idea: Thử giảm thao tác thủ công trong PDT OPS/API.
 - BEFORE PUBLISH: re-open source, test claims, screen rights/risks,
   edit hook, add tangible use and limitations, check Page/Group rules, owner approval.
 - State: RESEARCH_ONLY — DO NOT AUTO-POST
