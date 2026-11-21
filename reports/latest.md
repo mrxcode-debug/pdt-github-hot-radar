@@ -1,34 +1,34 @@
-# PDT GitHub Hot Radar — 2026-11-20
+# PDT GitHub Hot Radar — 2026-11-21
 
 Quét tự động bằng GitHub Actions. Đây là danh sách repo mới nổi qua GitHub Search, KHÔNG phải bảng GitHub Trending chính thức; stars tổng không đồng nghĩa stars tăng hôm nay.
 
-## 1. [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) — AI agents
+## 1. [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) — General
 
-**Tác dụng (mô tả tác giả):** Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
+**Tác dụng (mô tả tác giả):** Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious
 
-**PDT có thể dùng:** Đánh giá hỗ trợ agent, coding và điều phối SOL.
+**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
 
-**Bằng chứng:** 1279 stars; +110 stars từ snapshot trước; tạo 2026-11-16; ngôn ngữ Python; license MIT; score 80/100.
-
-**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
-
-## 2. [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) — Media
-
-**Tác dụng (mô tả tác giả):** AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
-
-**PDT có thể dùng:** Thử hỗ trợ quy trình sáng tạo nội dung.
-
-**Bằng chứng:** 1413 stars; +250 stars từ snapshot trước; tạo 2026-11-14; ngôn ngữ Python; license MIT; score 75/100.
+**Bằng chứng:** 5473 stars; +636 stars từ snapshot trước; tạo 2026-11-16; ngôn ngữ C++; license GPL-3.0; score 70/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
-## 3. [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) — AI agents
+## 2. [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) — General
 
-**Tác dụng (mô tả tác giả):** AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
+**Tác dụng (mô tả tác giả):** ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。
 
-**PDT có thể dùng:** Đánh giá hỗ trợ agent, coding và điều phối SOL.
+**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
 
-**Bằng chứng:** 960 stars; chưa có baseline tăng trưởng; tạo 2026-11-19; ngôn ngữ UNKNOWN; license MIT; score 71/100.
+**Bằng chứng:** 2106 stars; +245 stars từ snapshot trước; tạo 2026-11-15; ngôn ngữ Python; license MIT; score 70/100.
+
+**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
+
+## 3. [joshpuckett/allo](https://github.com/joshpuckett/allo) — General
+
+**Tác dụng (mô tả tác giả):** Allo is your friendly neighborhood typeface, free and open source
+
+**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
+
+**Bằng chứng:** 1268 stars; +91 stars từ snapshot trước; tạo 2026-11-15; ngôn ngữ Python; license OFL-1.1; score 70/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
