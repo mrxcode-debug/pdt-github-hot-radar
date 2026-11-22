@@ -1,36 +1,36 @@
-# PDT GitHub Hot Radar — 2026-11-21
+# PDT GitHub Hot Radar — 2026-11-22
 
 Quét tự động bằng GitHub Actions. Đây là danh sách repo mới nổi qua GitHub Search, KHÔNG phải bảng GitHub Trending chính thức; stars tổng không đồng nghĩa stars tăng hôm nay.
 
-## 1. [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) — General
+## 1. [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) — Media
 
-**Tác dụng (mô tả tác giả):** Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious
+**Tác dụng (mô tả tác giả):** Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
 
-**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
+**PDT có thể dùng:** Thử hỗ trợ quy trình sáng tạo nội dung.
 
-**Bằng chứng:** 5473 stars; +636 stars từ snapshot trước; tạo 2026-11-16; ngôn ngữ C++; license GPL-3.0; score 70/100.
-
-**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
-
-## 2. [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) — General
-
-**Tác dụng (mô tả tác giả):** ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。
-
-**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
-
-**Bằng chứng:** 2106 stars; +245 stars từ snapshot trước; tạo 2026-11-15; ngôn ngữ Python; license MIT; score 70/100.
+**Bằng chứng:** 1852 stars; +449 stars từ snapshot trước; tạo 2026-11-19; ngôn ngữ Python; license MIT; score 80/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
-## 3. [joshpuckett/allo](https://github.com/joshpuckett/allo) — General
+## 2. [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) — Developer tools
 
-**Tác dụng (mô tả tác giả):** Allo is your friendly neighborhood typeface, free and open source
+**Tác dụng (mô tả tác giả):** Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 
-**PDT có thể dùng:** Cần đọc README để xác nhận giá trị cho PDT.
+**PDT có thể dùng:** Kiểm tra giá trị tăng tốc lập trình.
 
-**Bằng chứng:** 1268 stars; +91 stars từ snapshot trước; tạo 2026-11-15; ngôn ngữ Python; license OFL-1.1; score 70/100.
+**Bằng chứng:** 376 stars; chưa có baseline tăng trưởng; tạo 2026-11-21; ngôn ngữ Rust; license MIT; score 67/100.
+
+**Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
+
+## 3. [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) — AI agents
+
+**Tác dụng (mô tả tác giả):** AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+
+**PDT có thể dùng:** Đánh giá hỗ trợ agent, coding và điều phối SOL.
+
+**Bằng chứng:** 376 stars; chưa có baseline tăng trưởng; tạo 2026-11-14; ngôn ngữ UNKNOWN; license Apache-2.0; score 67/100.
 
 **Quyết định:** đọc README và thử sandbox trước; CHƯA kiểm thử, CHƯA chứng minh an toàn hoặc phù hợp dùng thương mại.
 
 ---
-Đã xem 139 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.
+Đã xem 126 ứng viên; lỗi API: 0. Không clone, không cài, không chạy code lạ, không tiết lộ dữ liệu PDT.
